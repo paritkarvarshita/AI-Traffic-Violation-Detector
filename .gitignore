@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO weights (big file)
+*.pt
+
+# Generated outputs
+violations/
+reports/
+output.mp4
+
+# Videos (large files)
+videos/
+
+# OS junk
+.DS_Store
+Thumbs.db
